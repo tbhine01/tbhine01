@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Tajah! 👋
+
+Hi, I'm Tajah! I have a strong interest in Full Stack Development, Data Analytics and Business Intelligence. This hub will be used to showcase my skills. 
+I have knowledge in Data Analytics and various languages, and I'm currently learning Full Stack Development at Humana's Experience Center (XC) Academy. 
 
 <!--
 **tbhine01/tbhine01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
